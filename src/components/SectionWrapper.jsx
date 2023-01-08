@@ -27,7 +27,7 @@ const SectionWrapper = ({title, description, showBtn, mokeupImg, banner, reverse
               {showBtn && (
                 <Button 
                     assetsUrl={assets.expo}
-                    Link="deployed nft app on expo"
+                    Link="https://expo.dev/@khamhti/modernapp?serviceType=classic&distribution=expo-go"
                 />
               )}
           </div>
