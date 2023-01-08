@@ -11,7 +11,7 @@ import mockup from "./mockup.png";
 export default {
   homeHero,
   homeCards,
-  feature,~
+  feature,
   expo,
   expo02,
   javascript,
